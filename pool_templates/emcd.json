@@ -60,7 +60,7 @@
         }
     },
     {
-        "coin": "ETH",
+        "coin": "EMCD.IO-Ethash",
         "servers": [
             {
                 "geo": "Europe",
